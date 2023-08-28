@@ -55,7 +55,8 @@ button{
     border-radius: 10px;
 }
 button:hover{
-    background: green;
+    background: rgb(143, 233, 143);
+    color: black;
 }
 /* #start{
     background: green;
