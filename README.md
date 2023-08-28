@@ -4,4 +4,4 @@ timerwatch
 author: Giyas uddin ahmed
 <br>
 
-<h1>Hello Wrold</h1>
+<h1>Hello World</h1>
